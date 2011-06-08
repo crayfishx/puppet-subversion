@@ -5,7 +5,7 @@
   ],
   "checksums": {
     "README": "4cbb2d56189976bfef1356c2e6633dc8",
-    "Modulefile": "469baaf0d873b27a7a969adbe4b14037",
+    "Modulefile": "97e11c570acad27e6547991d8c003512",
     "manifests/init.pp": "74f2983d7b859f0807477bf12a802d4c"
   },
   "summary": "UNKNOWN",
@@ -17,5 +17,5 @@
   "dependencies": [
 
   ],
-  "name": "crayfish-svn"
+  "name": "crayfish-subversion"
 }
