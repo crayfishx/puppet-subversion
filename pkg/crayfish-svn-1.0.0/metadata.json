@@ -1,0 +1,21 @@
+{
+  "description": "UNKNOWN",
+  "types": [
+
+  ],
+  "checksums": {
+    "README": "4cbb2d56189976bfef1356c2e6633dc8",
+    "Modulefile": "469baaf0d873b27a7a969adbe4b14037",
+    "manifests/init.pp": "74f2983d7b859f0807477bf12a802d4c"
+  },
+  "summary": "UNKNOWN",
+  "source": "UNKNOWN",
+  "author": "crayfish",
+  "version": "1.0.0",
+  "project_page": "UNKNOWN",
+  "license": "UNKNOWN",
+  "dependencies": [
+
+  ],
+  "name": "crayfish-svn"
+}
